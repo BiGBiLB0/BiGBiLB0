@@ -1,9 +1,9 @@
 Ahoy there! I would describe what I do as a *pirate archivist*, collecting the culture we love and protecting it from targeted erasure or being lost to time. As pirates, we have a booty of content that some platforms restrict either because of copyright enforcement or other restrictions. 
 
 We rely on content we have taken without permission or we make copies of other pirates collections, across the world. These are preserved and shared by the communities that care about them, and being part of that community means giving back, and many of the private sites will require you to seed 2:1 or for a certain period of time (roughly 1w-1m). 
-##### Create a new Gmail
+## Create a new Gmail
 The first thing I'd do is create a new email to sign up to pirate adjacent websites etc with. Most good trackers (private torrent websites) will require an account, this keeps both of your content and information safer but does gate-keep. My online profile is called BiGBiLBO, which I try to keep across multiple platforms.
-##### Organisation
+## Organisation
 One of the most important things is a good file structure! My first tip is to have a inbox/unsorted folder. This is where all your unsorted downloads should go to keep everything else clean. It's just a place to dump files if your not sure. I use mine a lot for random inspiration etc. I have another two files in there called Personal & Work, this helps further separate for things that don't have a purpose right now, but you might need to use later. Some of my most useful things are:
 - Admin - picture of driving licence, passport, profile pic (1080x1080), a vector version of my signature
 - Family - files of work/presents I have made for friends & family; this ensures I can re-make them if they're lost or destroyed
