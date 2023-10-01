@@ -10,32 +10,33 @@ One of the most important things is a good file structure! My first tip is to ha
 - Projects - I keep inspiration, sketches.jpg, or in progress work in files. I keep completed projects in a 'completed projects' folder.
 # Libraries
 I sort my Plex content into libraries, these are root folders for which to divide your content. I would recommend doing it by media type. 
-### Movies
+## Movies
 I further divide each Movie into it's own folder, and each folder including; the film, the poster and a subtitle. This is my file structure: Benflix/Movies/Movie Name (YYYY)/Movie Name (YYYY).ext 
 Do all your organising in the Plex app, not with the folders.
-### TV
+## TV
 TV is mostly similar, but you also have season folders. Posters go outside of Season folders
 Benflix/Movies/TV Show Name (YYYY)/Season 00/S00E00 - Episode Name.ext 
 Benflix/Movies/TV Show Name (YYYY)/Season00.jpg
 Benflix/Movies/TV Show Name (YYYY)/poster.jpg 
-### Books
+## Books
 I haven't found a system I love with books yet. I sort similarly to Joe. I think it's key to have an unsorted folder, it's useful to sort these out from time to time, but who has the time? I do a big sort whenever it takes a bit too long to find the book you want, or you redownload the same thing twice.
-### Audiobooks
+## Audiobooks
 I sort the same as books, but it should have it's own separate root folder as it will require a different app to use.
-### Comics
+## Comics
 Sometimes I add another layer if they are linked comics, such as I have Game of Thrones & spin offs, some I also group by Artist if they do less series based work.
 Beflix/Comics/Series/Comic Name.cbr
-### Fonts
+## Fonts
 My fonts are a mess! 😅 My main concern is separating by whether or not I have the license to use them or not so I have a collection of all the ones I'm licensed to use on one folder under business assets, and the rest are all over the place. 
-### Inspiration
+## Inspiration
 I have inspiration libraries for images, videos, photos of work that I find inspiring. It works like a pinterest board of different files, from different websites.
-### How do I get it, and where from?
+
+# How do I get it, and where from?
 Here's where things get a little complicated! I have mine set up on a computer that is on 24/7 since I had a spare, and it was easier. However, unless you have the same I'd recommend you install everything on your NAS. I haven't used the guides before but a lot of people recommend them, and they work how I would imagine they would.
 
 Firstly install Plex, [here's an install guide.](https://drfrankenstein.co.uk/2023/05/01/plex-in-container-manager-on-a-synology-nas-no-hardware-transcoding/) Next you will need torrent client, I use qBittorrent [see guide.](https://drfrankenstein.co.uk/2023/09/28/qbittorrent-container-manager-on-a-synology-nas/) I get all of my movies & TV uploaded and added automatically, the program renames all of your content automatically so it works better with Plex as well as getting every TV for you so you don't have to worry! I use Sonarr, [see install guide](https://drfrankenstein.co.uk/2021/05/03/setting-up-sonarr-in-docker-on-a-synology-nas/) and Radarr, [see install guide.](https://drfrankenstein.co.uk/2021/07/30/setting-up-radarr-in-docker-on-a-synology-nas/) 
 
 I imagine you will have questions and I'm happy to help, I'd even be up for coming down for a weekend and helping you get set up in person if it doesn't make a lot of sense.
-## What Sites?
+# What Sites?
 - https://www.torrentleech.org (I will have to email you an invite)
 - https://yts.mx/ (the only place I get films from)
 - https://eztv.re/ (tv specialist, mostly a back up)
@@ -44,7 +45,7 @@ I imagine you will have questions and I'm happy to help, I'd even be up for comi
 - https://tvchaosuk.com/ (I'm not a fan, but sometimes the only place to get UK TV)
 - https://theaudiobookbay.se/ (good selection of Audiobooks)
 - https://theposterdb.com/ (where I get most of my film posters from)
-## Preserving Culture & History
+# Preserving Culture & History
 I also have several archives of content that might otherwise be lost forever by website closures. Examples of this that might be of interest to you is old facebook photos that will be lost as people close their accounts, old vines that may only survive as a small part of a long compilation or current tiktoks that may be removed, or be lost at tiktok closes or bans content. You can now own, host and keep all of these things yourself! You can even own your own social media to host them all in and show people on the road.
 ## Now what?
 Well that's a lot, but it's far from everything! I'm sure you'll have many more questions about this and other things but this should give you a good chunk of everything you need to get started. If you have any questions just give me a shout!
